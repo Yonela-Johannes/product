@@ -1,0 +1,143 @@
+{
+    "items": [
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "Women",
+        "name": "Nike Air Low Premium",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://i.pinimg.com/736x/9c/7f/ea/9c7feaa52036c52d5dd40b477b18d142.jpg",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "Men",
+        "name": "Nike Air Force Green",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://i.pinimg.com/736x/9c/7f/ea/9c7feaa52036c52d5dd40b477b18d142.jpg",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "",
+        "sale": true,
+        "name": "Nike Addapt BB Rose",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://i.pinimg.com/736x/9c/7f/ea/9c7feaa52036c52d5dd40b477b18d142.jpg",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "",
+        "sale": true,
+        "name": "Nike Air Premium",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://i.pinimg.com/736x/9c/7f/ea/9c7feaa52036c52d5dd40b477b18d142.jpg",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "",
+        "sale": true,
+        "name": "Nike Adapt BB Pro",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://i.pinimg.com/736x/9c/7f/ea/9c7feaa52036c52d5dd40b477b18d142.jpg",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "Accessories",
+        "name": "Air Jordan PR3",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "Men",
+        "sale": false,
+        "name": "Nike Multi Smart Shoe",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "price": 150,
+        "colors": ["red", "green"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "",
+        "sale": true,
+        "name": "Nike Jordan Air Max",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "price": 150,
+        "colors": ["red", "green", "orange"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "Women",
+        "sale": true,
+        "name": "Nike Old Max-x",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "price": 150,
+        "colors": []
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "",
+        "sale": true,
+        "name": "Nike Lime Jordan 11",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "price": 150,
+        "colors": ["red", "green", "purple", "orange"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "",
+        "sale": true,
+        "name": "Nike Air Black Max",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      },
+      {
+        "user": "649618014ee8e60c10c2bb10",
+        "category": "Accessories",
+        "sale": true,
+        "name": "Nike Zoom Max",
+        "description": "MEN Running Shoes",
+        "imageUrl": "https://www.befunky.com/images/wp/wp-2017-09-Background-Remover-1.jpg?auto=avif,webp&format=jpg&width=944",
+        "imageId": 25,
+        "prevPrice": 100,
+        "price": 150,
+        "colors": ["red", "green", "yellow", "blue", "black"]
+      }
+    ]
+  }
+  
+  
